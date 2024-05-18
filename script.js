@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 document.addEventListener("DOMContentLoaded", function () {
     function manipular(formulario, comentariosDiv, contador) {
         formulario.addEventListener("submit", function (event) {
@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
     manipular(document.getElementById("formulario2"), document.getElementById("comentarios2"), 0);
     manipular(document.getElementById("formulario3"), document.getElementById("comentarios3"), 0);
 });
-=======
+
 document.addEventListener("DOMContentLoaded",function()
 {
     function manipular(formulario,comentariosDiv,contador){
@@ -94,4 +94,4 @@ document.addEventListener("DOMContentLoaded",function()
         manipular(document.getElementById("formulario3"),document.getElementById("comentarios3"),0);
     }
 );
->>>>>>> c46399a5eee7b3f63f08ad9b670a59b6c7349178
+
